@@ -3,9 +3,6 @@ typeCode: NWS
 description: 'Entando and JHipster: How It Works'
 mainGroup: free
 status: PUBLIC
-viewPage: news
-listModel: '10022'
-defaultModel: '10002'
 attributes:
   - code: date
     value: '2020-09-03 00:00:00'
@@ -44,7 +41,13 @@ attributes:
     compositeelements: []
     listelements: {}
   - code: link
-    value: null
+    value:
+      destType: 0
+      urlDest: null
+      pageDest: null
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!!#'
     values: {}
     elements: []
     compositeelements: []

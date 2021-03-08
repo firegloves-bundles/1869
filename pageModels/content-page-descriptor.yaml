@@ -7,7 +7,7 @@ configuration:
       mainFrame: false
       defaultWidget:
         code: logo
-        properties: null
+        properties: {}
       sketch:
         x1: 0
         y1: 0
@@ -18,7 +18,7 @@ configuration:
       mainFrame: false
       defaultWidget:
         code: navigation-menu
-        properties: null
+        properties: {}
       sketch:
         x1: 3
         y1: 0
@@ -29,7 +29,7 @@ configuration:
       mainFrame: false
       defaultWidget:
         code: search_form
-        properties: null
+        properties: {}
       sketch:
         x1: 6
         y1: 0
@@ -40,7 +40,7 @@ configuration:
       mainFrame: false
       defaultWidget:
         code: keycloak-login
-        properties: null
+        properties: {}
       sketch:
         x1: 9
         y1: 0
@@ -51,8 +51,7 @@ configuration:
       mainFrame: true
       defaultWidget:
         code: content_viewer
-        properties:
-          modelId: '10002'
+        properties: {}
       sketch:
         x1: 0
         y1: 1

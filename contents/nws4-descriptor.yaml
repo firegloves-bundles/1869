@@ -3,9 +3,6 @@ typeCode: NWS
 description: Why You Need a Micro Frontend Platform for Kubernetes
 mainGroup: free
 status: PUBLIC
-viewPage: news
-listModel: '10022'
-defaultModel: '10002'
 attributes:
   - code: date
     value: '2020-08-31 00:00:00'
@@ -44,7 +41,13 @@ attributes:
     compositeelements: []
     listelements: {}
   - code: link
-    value: null
+    value:
+      destType: 0
+      urlDest: null
+      pageDest: null
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!!#'
     values: {}
     elements: []
     compositeelements: []
