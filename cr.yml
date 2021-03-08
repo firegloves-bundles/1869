@@ -1,0 +1,32 @@
+apiVersion: entando.org/v1
+kind: EntandoDeBundle
+metadata:
+  name: '1869'
+  labels:
+    widget: 'true'
+    pageTemplate: 'true'
+    fragment: 'true'
+    pages: 'true'
+    groups: 'true'
+    contentType: 'true'
+    contentTemplate: 'true'
+    assets: 'true'
+    contents: 'true'
+    plugin: 'true'
+    categories: 'true'
+    labels: 'true'
+    languages: 'true'
+    bundle-type: system-level-bundle
+spec:
+  details:
+    name: '1869'
+    description: 1869 bundle
+    dist-tags:
+      latest: v0.0.1
+    versions:
+      - v0.0.1
+  tags:
+    - version: v0.0.1
+      shasum: 1f7033c46490bb261290e69987d151c51d7a48fc
+      integrity: 1f7033c46490bb261290e69987d151c51d7a48fc
+      tarball: 'https://github.com/firegloves-bundles/1869.git'
