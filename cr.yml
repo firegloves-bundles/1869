@@ -22,11 +22,22 @@ spec:
     name: '1869'
     description: 1869 bundle
     dist-tags:
-      latest: v0.0.1
+      latest: v0.0.3
     versions:
+      - v0.0.3
+      - v0.0.2
       - v0.0.1
   tags:
+    - version: v0.0.3
+      description: 'bundle-type non recognized'
+      shasum: e84a2be660f4777d0f45cc7015f6c448c51f78cf
+      integrity: e84a2be660f4777d0f45cc7015f6c448c51f78cf
+      tarball: 'https://github.com/firegloves-bundles/1869.git'
+    - version: v0.0.2
+      shasum: e84a2be660f4777d0f45cc7015f6c448c51f78cf
+      integrity: e84a2be660f4777d0f45cc7015f6c448c51f78cf
+      tarball: 'https://github.com/firegloves-bundles/1869.git'
     - version: v0.0.1
-      shasum: 1f7033c46490bb261290e69987d151c51d7a48fc
-      integrity: 1f7033c46490bb261290e69987d151c51d7a48fc
+      shasum: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
+      integrity: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
       tarball: 'https://github.com/firegloves-bundles/1869.git'
