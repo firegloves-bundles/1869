@@ -1,6 +1,6 @@
 code: '1869'
 description: 1869 bundle
-bundle-type: system-level-bundle
+bundle-type: not-recognized
 components:
   widgets:
     - widgets/conference-details-widget-descriptor.yaml
